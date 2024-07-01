@@ -22,7 +22,7 @@ Este é um projeto de Gerador de Currículo online desenvolvido em HTML, JavaScr
 
 1. Clone este repositório para o seu ambiente local:
    ```sh
-   git clone https://github.com/seu-usuario/GeradorCurriculo.git
+   git clone https://github.com/H1ury/geradorcurriculo.git
 2. Certifique-se de que você tenha um servidor web (por exemplo, XAMPP, WAMP, ou LAMP) configurado em seu ambiente local.
 3. Coloque a pasta GeradorCurriculo no diretório raiz do seu servidor web (por exemplo, htdocs para XAMPP).
 4. Abra o navegador e acesse:
